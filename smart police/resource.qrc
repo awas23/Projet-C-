@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/Notification.jpg</file>
+        <file>img/icons8_add_96px.png</file>
+        <file>img/icons8_checked_96px.png</file>
+        <file>img/icons8_conference_128px.png</file>
+        <file>img/icons8_delete_512px_1.png</file>
+        <file>img/icons8_kackstiftaufpapier_240px.png</file>
+        <file>img/icons8_print_80px.png</file>
+        <file>img/icons8_sorting_60px.png</file>
+        <file>img/icons8_update_200px.png</file>
+    </qresource>
+</RCC>
